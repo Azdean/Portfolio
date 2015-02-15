@@ -1,4 +1,45 @@
+A{text-decoration:none}
 
+body{
+	margin: 0 auto;
+	height: 100%;
+	width:100%;
+	background-color: #fcfcf8;
+}
+
+#centersite {
+	width:1000px;
+	margin: 0 auto;
+}
+
+header {
+	height: 75px;
+	width: 100%;
+	margin: 0;
+	padding:0;
+	border:0px;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #b9b9b9;
+}
+
+nav{
+	height:75px;
+	width:80%;
+	float: left;
+	overflow: hidden;
+}
+
+nav a{
+	font-family: 'Fugaz One', cursive;
+	display: inline;
+	list-style-type: none;
+	font-size: 22px;
+	margin-left: 45px;
+	margin-top: 30px;
+	float:left;
+	color:#2e3a58;
+}
 
 #navigation{
 	margin-left: 250px;
