@@ -3,9 +3,14 @@ header
 	width: 100%
 	margin: 0
 	padding: 0
-	background-color: $grey
+	position: fixed
+	top: 0em
+	z-index: 1
+	-webkit-transition: top 0.3s ease, background-color 200ms linear
+	-moz-transition: top 0.3s ease, background-color 200ms linear
+	transition: top 0.3s ease, background-color 200ms linear
 
-#menuToggle
+#menuToggleWrap
 	height: 1em	
 	width: 3em
 	float: right
@@ -17,17 +22,21 @@ header
 	width: 25em
 	margin: 1em 0 0 2em
 
-#logo p
+#logo h1
 	width: 100%
 	margin: 0
 	padding: 0
 	display: inline
-	font-size: 2.2rem
+	font-size: 1.9rem
 	color: $background
 
-#portfolio
+#logo #portfolio
 	font-family: 'Fugaz One', cursive
+	//-webkit-transition: background-color 200ms linear
+	//-moz-transition: background-color 200ms linear
+	//-o-transition: background-color 200ms linear
+	//-ms-transition: background-color 200ms linear
+	//transition: background-color 200ms linear
 
-
-
-
+#menuToggle
+	cursor: pointer

@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
 				"block",
 				"block"
 			],
@@ -124,10 +140,6 @@
 				"margin-left"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
 				"paddi",
 				"padding-bottom"
 			],
@@ -146,10 +158,6 @@
 			[
 				"min",
 				"min-width"
-			],
-			[
-				"back",
-				"background-image"
 			],
 			[
 				"m",
@@ -307,7 +315,7 @@
 			"file": "Index.php",
 			"settings":
 			{
-				"buffer_size": 451,
+				"buffer_size": 344,
 				"line_ending": "Windows"
 			}
 		},
@@ -315,7 +323,7 @@
 			"file": "assets/framework/header.php",
 			"settings":
 			{
-				"buffer_size": 548,
+				"buffer_size": 650,
 				"line_ending": "Windows"
 			}
 		},
@@ -323,39 +331,23 @@
 			"file": "assets/framework/footer.php",
 			"settings":
 			{
-				"buffer_size": 77,
+				"buffer_size": 177,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/img/wordCycle.svg",
+			"file": "assets/lib/menu.js",
 			"settings":
 			{
-				"buffer_size": 1026,
+				"buffer_size": 677,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/css/styles.sass",
+			"file": "assets/lib/header.js",
 			"settings":
 			{
-				"buffer_size": 262,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/css/header.sass",
-			"settings":
-			{
-				"buffer_size": 386,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/css/footer.sass",
-			"settings":
-			{
-				"buffer_size": 119,
+				"buffer_size": 316,
 				"line_ending": "Windows"
 			}
 		},
@@ -363,7 +355,23 @@
 			"file": "assets/css/home.sass",
 			"settings":
 			{
-				"buffer_size": 793,
+				"buffer_size": 844,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/styles.sass",
+			"settings":
+			{
+				"buffer_size": 662,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/header.sass",
+			"settings":
+			{
+				"buffer_size": 515,
 				"line_ending": "Windows"
 			}
 		}
@@ -410,25 +418,50 @@
 	[
 		"/C/xampp/htdocs/Portfolio",
 		"/C/xampp/htdocs/Portfolio/assets",
-		"/C/xampp/htdocs/Portfolio/assets/css"
+		"/C/xampp/htdocs/Portfolio/assets/css",
+		"/C/xampp/htdocs/Portfolio/assets/framework",
+		"/C/xampp/htdocs/Portfolio/assets/lib"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/Portfolio/assets/lib/menu.js",
+		"/C/xampp/htdocs/Portfolio/assets/css/home.sass",
+		"/C/xampp/htdocs/LyonsCopse/assets/css/rMenu.sass",
+		"/C/xampp/htdocs/LyonsCopse/assets/framework/header.php",
+		"/C/xampp/htdocs/LyonsCopse/index.php",
+		"/C/xampp/htdocs/UsabilityApplication/stylesheet/header.sass",
+		"/C/xampp/htdocs/LyonsCopse/assets/lib/mobile.js",
+		"/C/xampp/htdocs/LyonsCopse/assets/css/index.sass",
+		"/C/xampp/htdocs/Portfolio/assets/css/header.sass",
+		"/C/xampp/htdocs/Portfolio/assets/css/styles.css",
+		"/C/xampp/htdocs/Portfolio/Index.php",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/framework/footer.php",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/framework/header.php",
+		"/C/xampp/htdocs/IntSe1C/Chartor/index.php",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/home.sass",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/footer.sass",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/header.sass",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/styles.sass",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/lib/OOPNode.js",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/lib/form.js",
+		"/C/xampp/htdocs/Web Script Ecommerce Website/Ecommerce/resource/css/header.sass",
+		"/C/xampp/htdocs/Web Script Ecommerce Website/Ecommerce/resource/css/cpanel.sass",
+		"/C/xampp/htdocs/Web Script Ecommerce Website/Ecommerce/resource/lib/animations.js",
+		"/C/xampp/htdocs/Web Script Ecommerce Website/Ecommerce/resource/lib/handlers.js",
+		"/C/xampp/htdocs/Web Script Ecommerce Website/v1/JSON-Handle.js",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/img/add.svg",
+		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/styles.css",
+		"/C/xampp/htdocs/Portfolio/assets/framework/header.php",
 		"/C/xampp/htdocs/Portfolio/assets/img/wordCycle.svg",
+		"/C/xampp/htdocs/Portfolio/assets/css/footer.sass",
+		"/C/xampp/htdocs/Portfolio/assets/css/styles.sass",
+		"/C/xampp/htdocs/Portfolio/assets/framework/footer.php",
 		"/C/xampp/htdocs/Portfolio/assets/img/burger.svg",
 		"/C/xampp/htdocs/Portfolio/style.css",
 		"/C/xampp/htdocs/My Assets/Icons/Interface/burger.svg",
 		"/D/Downloads/Adobe Illustrator CS6 - Cool Release/Instructions By Cool Release.txt",
-		"/C/xampp/htdocs/Portfolio/assets/framework/footer.php",
-		"/C/xampp/htdocs/Portfolio/assets/framework/header.php",
 		"/C/xampp/htdocs/Portfolio/Index.html",
 		"/C/xampp/htdocs/Portfolio/README.md",
-		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/footer.sass",
-		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/header.sass",
-		"/C/xampp/htdocs/IntSe1C/Chartor/assets/css/styles.sass",
-		"/C/xampp/htdocs/IntSe1C/Chartor/assets/framework/footer.php",
-		"/C/xampp/htdocs/IntSe1C/Chartor/assets/framework/header.php",
-		"/C/xampp/htdocs/IntSe1C/Chartor/index.php",
 		"/C/xampp/htdocs/IntSe1C/Chartor/assets/stylesheet/styles.sass",
 		"/C/xampp/htdocs/practice/index.php",
 		"/C/xampp/htdocs/UsabilityApplication/framework/header.php",
@@ -463,7 +496,6 @@
 		"/C/xampp/htdocs/UsabilityApplication/stylesheet/map.sass",
 		"/C/xampp/htdocs/UsabilityApplication/stylesheet/navigation.sass",
 		"/C/xampp/htdocs/UsabilityApplication/stylesheet/footer.sass",
-		"/C/xampp/htdocs/UsabilityApplication/stylesheet/header.sass",
 		"/C/xampp/htdocs/UsabilityApplication/stylesheet/style.sass",
 		"/C/xampp/htdocs/UsabilityApplication/places.php",
 		"/C/xampp/htdocs/UsabilityApplication/settings.php",
@@ -510,7 +542,6 @@
 		"/C/xampp/htdocs/Other/linbeta-master/inc/all.php",
 		"/C/xampp/htdocs/Web Script Ecommerce Website/v2/README.TXT",
 		"/C/xampp/htdocs/Web Script Ecommerce Website/v1/ajax.js",
-		"/C/xampp/htdocs/Web Script Ecommerce Website/v1/JSON-Handle.js",
 		"/C/xampp/htdocs/Web Script Ecommerce Website/v2/index.php",
 		"/C/xampp/htdocs/Web Script Ecommerce Website/v2/resource/lib/CPanel.js",
 		"/C/xampp/htdocs/practice/api/api.php",
@@ -520,28 +551,7 @@
 		"/F/xampp/htdocs/practice/lib/jotter.js",
 		"/F/xampp/htdocs/practice/index.php",
 		"/E/xampp/htdocs/practice/index.php",
-		"/E/xampp/htdocs/practice/api/api.php",
-		"/E/xampp/htdocs/practice/api/inc/db.inc.php",
-		"/E/xampp/htdocs/practice/lib/jotter.php",
-		"/E/xampp/htdocs/lyonsCopseV5/assets/sitemap.xml",
-		"/E/xampp/htdocs/lyonsCopseV5/framework/header.php",
-		"/E/xampp/htdocs/lyonsCopseV5/css/styles.css",
-		"/G/Sublime x64/Data/Packages/User/Preferences.sublime-settings",
-		"/G/Sublime x64/Data/Packages/Default/Preferences.sublime-settings",
-		"/E/xampp/htdocs/lyonsCopseV5/framework/footer.php",
-		"/E/xampp/htdocs/lyonsCopseV5/mobile.js",
-		"/E/xampp/htdocs/linbeta-master/index.html",
-		"/D/DBPRIN/lab_two.sql",
-		"/D/DBPRIN/lab13.sql",
-		"/D/DBPRIN/lab_three.sql",
-		"/D/DBPRIN/lab_four.sql",
-		"/D/DBPRIN/lab_one.sql",
-		"/D/DBPRIN/lab_five.sql",
-		"/E/xampp/htdocs/lyonsCopseV4/index.php",
-		"/E/xampp/htdocs/lyonsCopseV4/framework/header.php",
-		"/E/xampp/htdocs/lyonsCopseV4/mobile.js",
-		"/E/xampp/htdocs/lyonsCopseV4/css/styles.css",
-		"/E/xampp/htdocs/lyonsCopseV3/rules.php"
+		"/E/xampp/htdocs/practice/api/api.php"
 	],
 	"find":
 	{
@@ -559,6 +569,81 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"22",
+			"25",
+			"ease",
+			"27",
+			"28",
+			"3",
+			"180",
+			",$grey,$grey,$grey2",
+			"180deg",
+			"90",
+			"$grey",
+			"120",
+			"1",
+			"$grey2",
+			"$background",
+			"$grey",
+			"grey",
+			"blue",
+			"Dblue",
+			"1",
+			"this.",
+			"fixed",
+			"body",
+			"|",
+			"position: fixed\n	top: 0\n	right: 0",
+			"5em",
+			"		",
+			"				",
+			"						",
+			"					",
+			"				",
+			"			",
+			">\n",
+			"/",
+			"+		",
+			"\"",
+			"this",
+			";",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"inline",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"inline",
+			";",
+			"; ",
+			"eeeeee",
+			"999",
+			"red",
+			"9",
+			"5%",
+			"5",
+			"red",
+			"blue",
+			",",
+			";",
+			"pink",
 			"25",
 			"35",
 			"50",
@@ -611,82 +696,7 @@
 			";",
 			"postCpde",
 			"assets/pages/",
-			"}",
-			";",
-			"{",
-			" ",
-			"}",
-			";",
-			"{",
-			";",
-			"}",
-			"{",
-			";",
-			"}",
-			"{",
-			"	",
-			";",
-			"}",
-			"{",
-			"	",
-			";",
-			"}",
-			"{",
-			"}",
-			"{",
-			";",
-			"overflow",
-			"	",
-			" ",
-			" 	",
-			"0",
-			"img",
-			";",
-			"}",
-			"{",
-			"	",
-			"^sleep::\n",
-			"        console.log(key);",
-			"console.log(form[i]); ",
-			"output",
-			"section",
-			"named",
-			"hidden",
-			"388E3C",
-			"5px",
-			"right",
-			" ||",
-			"result",
-			"')\");)",
-			"name",
-			"()",
-			"document.getElementById('description').value;",
-			" =",
-			"supplier",
-			"();\n",
-			" ');",
-			"daily",
-			"monthly",
-			"daily",
-			"theme",
-			"menu",
-			"myTable",
-			";\n",
-			">-->\n",
-			"link",
-			"nav",
-			"main",
-			"over",
-			"banner",
-			"?>-->",
-			"\">\n",
-			"Right",
-			"head",
-			"appoint",
-			"quan",
-			"stockl",
-			"),\n",
-			"50"
+			"}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -704,7 +714,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -713,73 +723,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 451,
+						"buffer_size": 344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								451,
-								451
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/framework/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 548,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								521,
-								521
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "assets/framework/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 77,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								77,
-								77
+								295,
+								295
 							]
 						],
 						"settings":
@@ -795,59 +747,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "assets/img/wordCycle.svg",
+					"buffer": 1,
+					"file": "assets/framework/header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1026,
+						"buffer_size": 650,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								939,
-								939
+								388,
+								388
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 4,
-					"file": "assets/css/styles.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60,
-								60
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -857,20 +776,140 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "assets/css/header.sass",
+					"buffer": 2,
+					"file": "assets/framework/footer.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 386,
+						"buffer_size": 177,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/lib/menu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/lib/header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "assets/css/home.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/css/styles.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								174
 							]
 						],
 						"settings":
@@ -881,53 +920,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "assets/css/footer.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 119,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "assets/css/home.sass",
+					"file": "assets/css/header.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 793,
+						"buffer_size": 515,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								710,
-								710
+								515,
+								515
 							]
 						],
 						"settings":
@@ -936,7 +946,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 138.0,
+						"translation.y": 483.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -973,7 +983,7 @@
 		"cols":
 		[
 			0.0,
-			0.929883649724,
+			0.51071647275,
 			1.0
 		],
 		"rows":
@@ -1029,7 +1039,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

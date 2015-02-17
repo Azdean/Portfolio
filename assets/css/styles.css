@@ -7,16 +7,54 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  background-color: #fcfcf8; }
+  background-color: #fcfcf8;
+  z-index: 2;
+  position: relative;
+  top: 0em; }
+
+#menuWrap {
+  height: 4.09em;
+  width: 100%;
+  color: #fcfcf8;
+  background-color: #212121;
+  border-bottom: 1px double #fcfcf8;
+  position: fixed;
+  top: -4em;
+  z-index: 1; }
+
+#menuWrap li {
+  display: inline;
+  list-style-type: none;
+  padding: 1em 1em 1.5em 1em;
+  font-weight: 300; }
+
+#menuWrap li:hover {
+  background-color: #1976D2;
+  cursor: pointer; }
+
+#menuWrap, body {
+  -webkit-transition: top 0.3s ease;
+  -moz-transition: top 0.3s ease;
+  transition: top 0.3s ease; }
+
+#main {
+  width: 100%;
+  height: 100%;
+  min-height: 90em; }
 
 header {
   height: 5em;
   width: 100%;
   margin: 0;
   padding: 0;
-  background-color: #212121; }
+  position: fixed;
+  top: 0em;
+  z-index: 1;
+  -webkit-transition: top 0.3s ease, background-color 200ms linear;
+  -moz-transition: top 0.3s ease, background-color 200ms linear;
+  transition: top 0.3s ease, background-color 200ms linear; }
 
-#menuToggle {
+#menuToggleWrap {
   height: 1em;
   width: 3em;
   float: right;
@@ -28,16 +66,19 @@ header {
   width: 25em;
   margin: 1em 0 0 2em; }
 
-#logo p {
+#logo h1 {
   width: 100%;
   margin: 0;
   padding: 0;
   display: inline;
-  font-size: 2.2rem;
+  font-size: 1.9rem;
   color: #fcfcf8; }
 
-#portfolio {
+#logo #portfolio {
   font-family: "Fugaz One", cursive; }
+
+#menuToggle {
+  cursor: pointer; }
 
 footer {
   width: 100%;
@@ -49,11 +90,8 @@ footer {
   font-weight: 300;
   margin: 0; }
 
-#main {
-  width: 100%; }
-
 #banner {
-  height: 25em;
+  height: 30em;
   width: 100%;
   margin: 0 auto;
   background: -webkit-linear-gradient(120deg, #1976D2, #0D47A1);
@@ -65,12 +103,14 @@ footer {
   font-size: 3.5rem;
   color: #fcfcf8;
   margin: 0;
+  padding: 1em 0 0 1em;
   display: table; }
 
 #banner p {
   font-size: 2rem;
   color: #fcfcf8;
   margin: 0;
+  padding: 0 0 0 1.6em;
   display: table;
   font-weight: 300;
   font-style: italic; }
@@ -85,8 +125,10 @@ footer {
 
 #bannerText {
   width: 50%;
+  height: 100%;
   float: left; }
 
 #bannerAnimation {
   width: 50%;
+  height: 100%;
   float: right; }
